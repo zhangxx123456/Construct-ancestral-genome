@@ -9,7 +9,7 @@ https://github.com/zhangxx123456/Construct-ancestral-genome
 
 ## Ussage:
 
-<sup>python3    construct_ancestral_genome.py    Outputfile   Proportion_cutoff_of_haplotypes    Recombination_distance    Inputfiles</sup>
+>python3    construct_ancestral_genome.py    Outputfile   Proportion_cutoff_of_haplotypes    Recombination_distance    Inputfiles
 
 
 
