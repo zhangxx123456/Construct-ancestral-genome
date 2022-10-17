@@ -21,7 +21,7 @@ https://github.com/zhangxx123456/Construct-ancestral-genome
 
 ***Recombination_distance***:  If the selected haplotype was extended to the given length, it will occur a recombination event.
 
-***Inputfiles***: One file or multiple files are allowed. All of the input files must have the completely consistent bi-allelic variants. '0' means the reference allele was selected to construct ancestral genomes. '1' means the alternative allele was selected to construct ancestral genomes. '.' means the no allele was selected to construct ancestral genomes.
+***Inputfiles***: One file or multiple files are allowed. All of the input files must have the completely consistent bi-allelic variants. '0' means the reference allele was selected to construct ancestral genomes. '1' means the alternative allele was selected to construct ancestral genomes. '.' means the allele was selected to construct ancestral genomes.
 
 
 
