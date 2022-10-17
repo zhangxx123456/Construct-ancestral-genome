@@ -30,3 +30,17 @@ Inputfiles: One file or multiple files are allowed. All of the input files must 
 python3 construct_ancestral_genome.py   abc.chr1.txt.gz   0.2   6000   Test.dataset/A.chr1.txt.gz   Test.dataset/B.chr1.txt.gz   Test.dataset/C.chr1.txt.gz
 
 
+
+
+
+usage: dosage_result_to_hla_type.py [-h] -d DOSAGE -o OUT -f FAM
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -d DOSAGE, --dosage DOSAGE
+                        dosage results
+  -o OUT, --out OUT     output dir
+  -f FAM, --fam FAM     fam file
+
+
+
