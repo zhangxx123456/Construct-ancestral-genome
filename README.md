@@ -9,7 +9,7 @@ https://github.com/zhangxx123456/Construct-ancestral-genome
 
 ## Ussage:
 
-python3 construct_ancestral_genome.py \\ <br>      <p>                  Outputfile  \\ </p>     Proportion_cutoff_of_haplotypes    Recombination_distance    Inputfiles
+python3 construct_ancestral_genome.py \\ <br>Outputfile  \\ <br>     Proportion_cutoff_of_haplotypes   \\ <br>    Recombination_distance  \\ <br>   Inputfiles  
 
 
 
@@ -26,6 +26,6 @@ python3 construct_ancestral_genome.py \\ <br>      <p>                  Outputfi
 
 
 ## For example:
-python3 construct_ancestral_genome.py   abc.chr1.txt.gz   0.2   6000   Test.dataset/A.chr1.txt.gz   Test.dataset/B.chr1.txt.gz   Test.dataset/C.chr1.txt.gz
+python3 construct_ancestral_genome.py  \\ <br>   abc.chr1.txt.gz   \\ <br>  0.2   \\ <br>  6000  \\ <br>   Test.dataset/A.chr1.txt.gz   Test.dataset/B.chr1.txt.gz   Test.dataset/C.chr1.txt.gz
 
 
