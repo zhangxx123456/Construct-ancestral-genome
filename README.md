@@ -24,9 +24,10 @@ We create a Docker image (https://registry.hub.docker.com/r/wangbaonan/shapeit4_
 &#8226;&nbsp;For detailed execution, please refer to the `000.run.pipeline.sh` file. <br>
 &#8226;&nbsp;Before you run it, users need to modify the software paths in the `000.run.pipeline.sh` file (e.g., `python=/your/path`). <br>
 &#8226;&nbsp;Then the pipeline can be quickly executed with the following command.
-<p align="center">
-  <pre style="background-color: #f0f0f0; padding: 10px; display: inline-block;">sh 000.run.pipeline.sh</pre>
-</p>
+```
+sh 000.run.pipeline.sh
+```
+
 &#8226;&nbsp;To help users run the pipeline more efficiently, we remove the data preprocessing section and the subsequent analysis for constructed ancestral samples. If users require these steps, please refer to our paper.<br><br><br>
 
 
